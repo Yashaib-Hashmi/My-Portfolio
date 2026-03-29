@@ -131,6 +131,9 @@ nav {
 .hero-text h1 .accent {
     color: var(--accent);
 }
+h1 {
+    color: var(--accent);
+}
 
 #hero-paragraph {
     font-size: 1.25rem;
